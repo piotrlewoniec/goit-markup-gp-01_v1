@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/migace/parcel-project-template-pl-main.git"
+    "url": "git+https://github.com/piotrlewoniec/goit-markup-hw-01.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/migace/parcel-project-template-pl-main/issues"
+    "url": "https://github.com/piotrlewoniec/goit-markup-gp-01_v1/issues"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
