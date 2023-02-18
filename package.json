@@ -5,7 +5,7 @@
   "homepage": "https://piotrlewoniec.github.io/goit-markup-gp-01_v1",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url goit-markup-gp-01_v1"
+    "build": "parcel build src/*.html --public-url /goit-markup-gp-01_v1/"
   },
   "repository": {
     "type": "git",
